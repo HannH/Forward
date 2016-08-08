@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Forwardcross", "Forwardcross\Forwardcross.vcxproj", "{E2BF59FA-C71D-4DD5-ABB0-ACD4FE741F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BF59FA-C71D-4DD5-ABB0-ACD4FE741F05}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2BF59FA-C71D-4DD5-ABB0-ACD4FE741F05}.Debug|Win32.Build.0 = Debug|Win32
+		{E2BF59FA-C71D-4DD5-ABB0-ACD4FE741F05}.Release|Win32.ActiveCfg = Release|Win32
+		{E2BF59FA-C71D-4DD5-ABB0-ACD4FE741F05}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
